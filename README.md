@@ -31,11 +31,14 @@
   
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/05.jpg)
 * Стоимость
+
   Linux полностью бесплатен за исключением некоторых дистрибутивов (RHEL, SLED).
 * Большой выбор
+
   Существует огромный выбор дистрибутивов (>600).
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/06.png)
 * Приложения
+
   Отсутствие многих популярных приложений, но у них есть замены (многие из них не очень удобные):
   * Microsoft Office - Libre Office
   * 3D Studio Max - Blender
@@ -48,8 +51,10 @@
   * uTorrent - Transmission
   * AIMP - Audacious
 * Гибкость
+
   Linux можно сделать похожим на что угодно. Вы можете изменить интерфейс до неузнаваемости добавить новые команды и многое другое.
 * [Безопасность](https://habr.com/ru/company/1cloud/blog/309696/)
+
   На Linux дистрибутивы делается немного вирусов и я даже не могу вспомнить хотя бы один. Из-за своей гибкости вы вправе отключить любую службу или добавить.
 * 
 
