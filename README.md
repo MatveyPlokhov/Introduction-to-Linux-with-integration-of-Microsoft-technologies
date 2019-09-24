@@ -16,14 +16,19 @@
 ## Плюсы и минусы Linux
 * Востребованность
   * Android
+
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/01.png)
   * Суперкомпьютеры
+
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/02.jpg)
   * Фондовая биржа (New York)
+
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/03.jpg)
   * CERN
+
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/04.jpg)
   * Сервера
+  
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/05.jpg)
 * Стоимость
   Linux полностью бесплатен за исключением некоторых дистрибутивов (RHEL, SLED).
