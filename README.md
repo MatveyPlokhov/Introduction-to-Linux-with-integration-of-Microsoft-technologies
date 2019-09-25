@@ -17,21 +17,23 @@
 * Востребованность
   * Android  
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/01.png)
+  * Дистрибутивы  
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/02.png)
   * Суперкомпьютеры  
-  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/02.jpg)
-  * Фондовая биржа (New York)  
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/03.jpg)
-  * CERN  
+  * Фондовая биржа (New York)  
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/04.jpg)
-  * Сервера  
+  * CERN  
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/05.jpg)
+  * Сервера  
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/06.jpg)
 * Стоимость  
-  Linux полностью бесплатен за исключением некоторых дистрибутивов (RHEL, SLED).
+  Linux полностью бесплатен за исключением некоторых дистрибутивов (Red Hat, SUSE).
 * Большой выбор  
   Существует огромный выбор дистрибутивов (>600).
-  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/06.png)
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/07.png)
 * Приложения  
-  Отсутствие многих популярных приложений, но у них есть замены (многие из них не очень удобные):
+  Отсутствие многих популярных приложений, но у них есть замены (некоторые из них не очень удобные):
   * Microsoft Office - Libre Office
   * 3D Studio Max - Blender
   * Adobe Photoshop - GIMP
@@ -46,17 +48,32 @@
   Linux можно сделать похожим на что угодно. Вы можете изменить интерфейс до неузнаваемости добавить новые команды и многое другое.
 * [Безопасность](https://habr.com/ru/company/1cloud/blog/309696/)  
   На Linux дистрибутивы делается немного вирусов и я даже не могу вспомнить хотя бы один. Из-за своей гибкости вы вправе отключить любую службу или добавить.
-* 
+* Скорость 
+  Linux обладает куда меньшими требованиями к железу и способна летать на любом устройтве.
+* Баги 
+  Всё зависит от дистрибутива. Если дистрибутив поддерживается, то баги очень быстро фиксятся, но они все равно могут присутствовать.
+* Освоение 
+  Linux уже давно имеет хороший интерфейс и лёгок в освоении.
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
-## Что такое терминал?
-
+## Что такое терминал?  
+* Терминал (виртуальная консоль) - это часть системы предназначенная для того, чтобы выполнять нужные для вас команды, и делать это эффективнее по скорости. Но это вовсе не обязательно, многим вполне достаточно графического интерфейса. Сейчас использование терминала отошло на второй план, но он остается основным средством для доступа к удаленным серверам и инструментом для профессионалов.
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
-## Отличия cmd и терминала
-
+## Эмуляторы терминала  
+* Эмуляторы терминала - это графическое приложение для терминала похожее на CMD, но отличающаяся по функционалу.
+  * Thermex - терминал на Android.
+  * Upterm - можно использовать как IDE с автодополнением.
+  * Terminator -  можно создать сетку из множества терминалов в одном окне.
+  * Alacritty - самый быстрый терминал.
+  * Hyper - красивый.
+  * TERMITE - ничем не примечательный эмулятор терминала.
+```
+ctrl+alt+t - эмулятор терминала  
+ctrl+alt+(f1 - f6) - терминал
+```
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
