@@ -9,7 +9,7 @@
 5) [Snap пакеты:](#Snap-пакеты)
 6) [Chocolatey:](#Chocolatey)
 7) [Установка WSL](#Установка-WSL)
-8) [Установка Neofetch](#Установка-Neofetch)
+8) [Установка приложений](#Установка-приложений)
 9) [Удалённая разработка в VS Code](#Удалённая-разработка-в-VS-Code)
 10) [GitHub](#GitHub)
 ---
@@ -70,10 +70,10 @@
   * Alacritty - самый быстрый терминал.
   * Hyper - красивый.
   * TERMITE - ничем не примечательный эмулятор терминала.
-```
-ctrl+alt+t - эмулятор терминала  
-ctrl+alt+(f1 - f6) - терминал
-```
+  ```
+  ctrl+alt+t - эмулятор терминала  
+  ctrl+alt+(f1 - f6) - терминал
+  ```
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
@@ -137,20 +137,20 @@ ctrl+alt+(f1 - f6) - терминал
 * Открываем PowerShell от имени администратора.  
 ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/10.png)
 * Вписываем команду:
-```
-Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
-```
+  ```
+  Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+  ```
 ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/11.png)
 * Перезагружаем устройство если написано:
-```
-RestartNeeded : True
-```
+  ```
+  RestartNeeded : True
+  ```
 * Открываем Microsoft Store и скачиваем Ubuntu 18.04 LTS
 ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/12.png)
 * Запускаем скаченный Ubuntu 18.04 LTS и ждём
-```
-Installing, this may take a few minutes...
-```
+  ```
+  Installing, this may take a few minutes...
+  ```
 * Создаём логин и пароль для пользователя  
 
 ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/13.png)  
@@ -160,18 +160,35 @@ sudo apt update && sudo apt upgrade
 ```
 ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/14.png)
 * Во время обновления вы увидете вопрос:
-```
-Do you want to continue? [Y/n] y
-```  
+  ```
+  Do you want to continue? [Y/n] y
+  ```  
   Нажимаем ```Y```
 * Стрелкой на клавиатуре выбираем ```YES```
 ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/15.png)
+* Ждём немного
 * Всё готово для работы
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
-## Установка Neofetch
-
+## Установка приложений
+* Neofetch
+  * sudo add-apt-repository ppa:dawidd0811/neofetch
+  * sudo apt-get update
+  * sudo apt-get install neofetch
+![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/16.png)
+* Vim
+  * sudo apt-get update
+  * sudo apt-get install vim
+* Проверяем
+  * mkdir files - создаём папку
+  * cd files/ - переходим в папку
+  * vi text.txt - создаем файл и открываем его в Vim
+  ```
+  привет мир
+  ```
+  * esc - для того чтобы сохраниться
+  * :wq - сохранить и выйти
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
