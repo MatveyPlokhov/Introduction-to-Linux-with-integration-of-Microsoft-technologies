@@ -140,32 +140,32 @@
   ```
   Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
   ```
-![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/11.png)
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/11.png)
 * Перезагружаем устройство если написано:
   ```
   RestartNeeded : True
   ```
 * Открываем Microsoft Store и скачиваем Ubuntu 18.04 LTS
-![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/12.png)
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/12.png)
 * Запускаем скаченный Ubuntu 18.04 LTS и ждём
   ```
   Installing, this may take a few minutes...
   ```
 * Создаём логин и пароль для пользователя  
 
-![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/13.png)  
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/13.png)  
 * Обновляем и устанавливаем все пакеты:
 ```
 sudo apt update && sudo apt upgrade
 ```
-![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/14.png)
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/14.png)
 * Во время обновления вы увидете вопрос:
   ```
   Do you want to continue? [Y/n] y
   ```  
   Нажимаем ```Y```
 * Стрелкой на клавиатуре выбираем ```YES```
-![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/15.png)
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/15.png)
 * Ждём немного
 * Всё готово для работы
 
@@ -176,7 +176,7 @@ sudo apt update && sudo apt upgrade
   * sudo add-apt-repository ppa:dawidd0811/neofetch
   * sudo apt-get update
   * sudo apt-get install neofetch
-![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/16.png)
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/16.png)
 * Vim
   * sudo apt-get update
   * sudo apt-get install vim
@@ -187,7 +187,7 @@ sudo apt update && sudo apt upgrade
   ```
   привет мир
   ```
-  * esc - для того чтобы сохраниться
+  * esc - для ввода команды при окончании работы
   * :wq - сохранить и выйти
 
 [:arrow_up:Оглавление](#Оглавление)
