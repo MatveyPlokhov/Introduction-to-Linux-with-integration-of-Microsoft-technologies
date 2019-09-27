@@ -151,7 +151,7 @@ RestartNeeded : True
 ```
 Installing, this may take a few minutes...
 ```
-* Создаём логин и пароль для пользователя
+* Создаём логин и пароль для пользователя  
 ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/13.png)
 * Обновляем и устанавливаем все пакеты:
 ```
