@@ -159,6 +159,13 @@ Installing, this may take a few minutes...
 sudo apt update && sudo apt upgrade
 ```
 ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/14.png)
+* Во время обновления вы увидете вопрос:
+```
+Do you want to continue? [Y/n] y
+```  
+  Нажимаем ```Y```
+* Стрелкой на клавиатуре выбираем ```YES```
+![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/15.png)
 * Всё готово для работы
 
 [:arrow_up:Оглавление](#Оглавление)
