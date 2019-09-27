@@ -155,9 +155,9 @@
 
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/13.png)  
 * Обновляем и устанавливаем все пакеты:
-```
-sudo apt update && sudo apt upgrade
-```
+  ```
+  sudo apt update && sudo apt upgrade
+  ```
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/14.png)
 * Во время обновления вы увидете вопрос:
   ```
@@ -166,7 +166,6 @@ sudo apt update && sudo apt upgrade
   Нажимаем ```Y```
 * Стрелкой на клавиатуре выбираем ```YES```
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/15.png)
-* Ждём немного
 * Всё готово для работы
 
 [:arrow_up:Оглавление](#Оглавление)
@@ -203,9 +202,9 @@ sudo apt update && sudo apt upgrade
 [:arrow_up:Оглавление](#Оглавление)
 ---
 ## Ссылки:
-* [Плюсы и минусы Linux (презентация)](![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Linux+-.pptx)
-* [Терминал (презентация)](![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Terminal.pptx)
-* [Краткий конспект к презентациям](![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Terminal.docx)
+* [Плюсы и минусы Linux (презентация)](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Linux+-.pptx)
+* [Терминал (презентация)](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Terminal.pptx)
+* [Краткий конспект к презентациям](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Terminal.docx)
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
