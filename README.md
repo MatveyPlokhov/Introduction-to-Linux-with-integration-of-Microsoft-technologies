@@ -175,6 +175,7 @@
   * sudo add-apt-repository ppa:dawidd0811/neofetch
   * sudo apt-get update
   * sudo apt-get install neofetch
+  * neofetch
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/16.png)
 * Vim
   * sudo apt-get update
@@ -191,8 +192,27 @@
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
-## Удалённая разработка в VS Code
-
+## Удалённая разработка в VS Code Insiders
+* Скачиваем [VS Code Insiders](https://code.visualstudio.com/insiders/)
+* Во время установки ничего не меняем, но если вы хотите ярлык на рабочем столе, то ставим соответствующую галочку:
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/17.png)
+* Запускаем скаченный VS Code Insiders
+* Первым делом приложение предлагает нам скачать дополнение 'Remote WSL'. Нажимаем кнопку ```Install```
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/18.png)
+* Если такого предложения небыло, то в поле ```Search Extensions in Marketplace``` вводим:
+  ```@id:ms-vscode-remote.remote-wsl```
+* Нажимаем по предложенному дополнению и устанавливаем его
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/19.png)
+* В левом нижнем углу появилась бирюзовая кнопка, нажимаем на неё  
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/20.png)
+* В всплывающем окне выбираем ```Remote-WSL: New Window```
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/21.png)
+* В новом окне должна быть надпись WSL  
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/22.png)
+* Создадим новый терминал комбинацией: ```CTRL+SHIFT+`(ё в ENG раскладке) ```
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/23.png)
+* Теперь все действия в терминале и редакторе будут связаны с Linux
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/24.png)
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
