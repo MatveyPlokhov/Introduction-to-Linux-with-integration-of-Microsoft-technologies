@@ -225,6 +225,8 @@
 * [Плюсы и минусы Linux (презентация)](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Linux+-.pptx)
 * [Терминал (презентация)](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Terminal.pptx)
 * [Краткий конспект к презентациям](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Terminal.docx)
+* [установка WSL](https://docs.microsoft.com/ru-ru/windows/wsl/install-win10)
+* [Разработка в WSL под VS Code Insiders](https://code.visualstudio.com/docs/remote/wsl)
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
