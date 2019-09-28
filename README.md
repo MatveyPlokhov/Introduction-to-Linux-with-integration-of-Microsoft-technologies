@@ -211,30 +211,32 @@
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/21.png)
 * В новом окне должна быть надпись WSL  
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/22.png)
-* Создадим новый терминал комбинацией: ```CTRL+SHIFT+`(ё в ENG раскладке) ```
+* Создадим новый терминал комбинацией: ```CTRL+`(ё в ENG раскладке) ```
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/23.png)
 * Теперь все действия в терминале и редакторе будут связаны с Linux
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/24.png)
-* Давайте скачаем пакет c++:
-  ```
-  sudo apt-get install g++
-  ```
-  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/25.png)
 * В поле ```Search Extensions in Marketplace``` вводим:
   ```
-  @@id:ms-vscode.cpptools
-  @id:acharluk.easy-cpp-projects 
+  @id:ms-python.python
   ```
-* Нажимаем по предложенным дополнениям и устанавливаем их
-  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/26.png)
-  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/27.png)
+* Нажимаем по дополнению и устанавливаем его
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/25.png)
 * После установки перезагружаем VS Code Insiders
-* 
+* Нажмем ```CTRL+SHIFT+E``` создадим файл code.py и вписываем код:
+  ```
+  print("Hello, World")
+  ```
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/26.png)
+* Запускаем нажав на зеленый треугольник в правом верхнем углу
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/27.png)
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
 ## GitHub
-
+* sudo apt-get update
+* sudo apt-get install git
+* git clone https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies.git
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/28.png)
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
