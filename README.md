@@ -243,7 +243,7 @@ ctrl+alt+(f1 - f6) - терминал
 ## Ссылки:
 * [Плюсы и минусы Linux (презентация)](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Linux+-.pptx)
 * [Терминал (презентация)](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Terminal.pptx)
-* [Краткий конспект к презентациям](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Terminal.docx)
+* [Краткий конспект к презентациям](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/Text.docx)
 * [Установка WSL](https://docs.microsoft.com/ru-ru/windows/wsl/install-win10)
 * [Разработка в WSL под VS Code Insiders](https://code.visualstudio.com/docs/remote/wsl)
 
