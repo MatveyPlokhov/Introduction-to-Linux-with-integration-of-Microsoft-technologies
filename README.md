@@ -199,7 +199,7 @@
 * Запускаем скаченный VS Code Insiders
 * Первым делом приложение предлагает нам скачать дополнение 'Remote WSL'. Нажимаем кнопку ```Install```
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/18.png)
-* Если такого предложения небыло, то нажимаем ```CTRL+SHIFT+X``` и в поле ```Search Extensions in Marketplace``` вводим:
+* Если такого предложения не было, то нажимаем ```CTRL+SHIFT+X``` и в поле ```Search Extensions in Marketplace``` вводим:
   ```
   @id:ms-vscode-remote.remote-wsl
   ```
@@ -211,7 +211,7 @@
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/21.png)
 * В новом окне должна быть надпись WSL  
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/22.png)
-* Создадим новый терминал комбинацией: ```CTRL+`(ё в ENG раскладке) ```
+* Открываем терминал комбинацией: ```CTRL+`(ё в ENG раскладке) ```
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/23.png)
 * Теперь все действия в терминале и редакторе будут связаны с Linux
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/24.png)
@@ -227,7 +227,7 @@
   print("Hello, World")
   ```
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/26.png)
-* Запускаем нажав на зеленый треугольник в правом верхнем углу
+* Запускаем, нажав на зеленый треугольник в правом верхнем углу
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/27.png)
 
 [:arrow_up:Оглавление](#Оглавление)
