@@ -199,8 +199,10 @@
 * Запускаем скаченный VS Code Insiders
 * Первым делом приложение предлагает нам скачать дополнение 'Remote WSL'. Нажимаем кнопку ```Install```
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/18.png)
-* Если такого предложения небыло, то в поле ```Search Extensions in Marketplace``` вводим:
-  ```@id:ms-vscode-remote.remote-wsl```
+* Если такого предложения небыло, то нажимаем ```CTRL+SHIFT+X``` и в поле ```Search Extensions in Marketplace``` вводим:
+  ```
+  @id:ms-vscode-remote.remote-wsl
+  ```
 * Нажимаем по предложенному дополнению и устанавливаем его
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/19.png)
 * В левом нижнем углу появилась бирюзовая кнопка, нажимаем на неё  
@@ -213,6 +215,21 @@
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/23.png)
 * Теперь все действия в терминале и редакторе будут связаны с Linux
   ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/24.png)
+* Давайте скачаем пакет c++:
+  ```
+  sudo apt-get install g++
+  ```
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/25.png)
+* В поле ```Search Extensions in Marketplace``` вводим:
+  ```
+  @@id:ms-vscode.cpptools
+  @id:acharluk.easy-cpp-projects 
+  ```
+* Нажимаем по предложенным дополнениям и устанавливаем их
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/26.png)
+  ![](https://github.com/MatveyPlokhov/Introduction-to-Linux-with-integration-of-Microsoft-technologies/blob/master/Files/27.png)
+* После установки перезагружаем VS Code Insiders
+* 
 
 [:arrow_up:Оглавление](#Оглавление)
 ---
